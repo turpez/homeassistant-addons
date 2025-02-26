@@ -6,4 +6,4 @@ startup: "system"
 boot: "auto"
 options: {}
 schema: {}
-image: "local/onlyfans_watcher"
+image: "ghcr.io/turpez/onlyfans_watcher:latest"

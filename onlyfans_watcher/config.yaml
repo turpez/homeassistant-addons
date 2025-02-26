@@ -1,0 +1,9 @@
+name: "OnlyFans Watcher"
+version: "1.0.0"
+slug: "onlyfans_watcher"
+description: "Surveille OnlyFans et télécharge les nouveaux posts"
+startup: "system"
+boot: "auto"
+options: {}
+schema: {}
+image: "local/onlyfans_watcher"
